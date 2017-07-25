@@ -3,8 +3,8 @@
 HomeBrew is required.
 
 brew install...
-    -imagemagick
-    -ghostscript
+    -imagemagick (handles conversion)
+    -ghostscript (handles PDF)
 
 ----------------------
 pdfHandler, as is, prompts user for the pdf file they wish to check, then prompts for the
