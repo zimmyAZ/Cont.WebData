@@ -3,8 +3,10 @@
 HomeBrew is required.
 
 brew install...
+    -python (program is written in pythin)
     -imagemagick (handles conversion)
     -ghostscript (handles PDF)
+    -tesseract (grabs text from converted images)
 
 ----------------------
 pdfHandler, as is, prompts user for the pdf file they wish to check, then prompts for the
